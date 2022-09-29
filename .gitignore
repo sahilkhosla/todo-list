@@ -24,3 +24,9 @@ yarn-error.log*
 
 # Local Netlify folder
 .netlify
+
+# extension
+build.crx
+build.pem
+extension.zip
+extension/
